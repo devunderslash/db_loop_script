@@ -1,0 +1,4 @@
+{
+    'hostnamelegacy.c5t6e6kswthk': 'credit-db334',
+    'host2': 'db2'
+}
